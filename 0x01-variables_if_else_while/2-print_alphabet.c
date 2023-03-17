@@ -15,5 +15,6 @@ int main(void)
 		ch++;
 	}
 	putchar(' ');
+
 	return (0);
 }
