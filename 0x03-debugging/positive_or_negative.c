@@ -3,7 +3,7 @@
 /**
  * positive_or_negative - checks for positive or negative numbers
  * @i: number to be checked
- * Return: 0 (Success)
+ * Return: always 0
  */
 
 void positive_or_negative(int i)
