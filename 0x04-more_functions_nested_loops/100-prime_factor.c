@@ -2,7 +2,7 @@
 #include <math.h>
 
 /**
- * main - This program finds and prints the largest prime number in 612852475143
+ * main - This program finds and prints the largest prime number 
  * Return: 0 (Success)
  */
 
@@ -18,7 +18,7 @@ int main(void)
 		n /= 2;
 	}
 
-	for (i = 3; i <= sqrt(n); i +=2)
+	for (i = 3; i <= sqrt(n); i += 2)
 	{
 		while (n % i == 0)
 		{
