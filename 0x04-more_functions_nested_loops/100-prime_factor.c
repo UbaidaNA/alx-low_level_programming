@@ -2,7 +2,7 @@
 #include <math.h>
 
 /**
- * main - This program finds and prints the largest prime number 
+ * main - This program finds and prints the largest prime number
  * Return: 0 (Success)
  */
 
