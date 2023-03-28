@@ -2,7 +2,6 @@
 
 /**
  * rev_string - reverses a string
- * _strlen - checks string length
  * @s: pointer to string
  * Return: 0 (Success)
  */
@@ -22,6 +21,11 @@ void rev_string(char *s)
 		s[j - 1 - i] = temp;
 	}
 }
+/**
+ * _strlen -checks string length
+ * @s: pointer to the string
+ * Return: length of string
+ */
 
 int _strlen(char *s)
 {
