@@ -3,7 +3,6 @@
 /**
  * _puts - prints a string, then a new line to stdout
  * @str: pointer to the string to be printed
- * Return: 0 (Success)
  */
 
 void _puts(char *str)
