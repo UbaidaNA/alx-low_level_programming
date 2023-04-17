@@ -1,6 +1,6 @@
-/**
- * ABS - computes the absolute value of a number
- * @x: number whose absolute value will be computed
- */
+#ifndef FUNCTION_LIKE_MACRO_H
+#define FUNCTION_LIKE_MACRO_H
 
 #define ABS(x) ((x) < 0 ? -(x) : (x))
+
+#endif
