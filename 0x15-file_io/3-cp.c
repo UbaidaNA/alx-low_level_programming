@@ -85,7 +85,7 @@ int main(int argc, char *argv[])
 
 	bytesRead = read(fileFrom, buff, 1024);
 	fileTo = open(argv[2], O_WRONLY | O_APPEND);
-	
+
 	}
 
 	while (bytesRead > 0)
